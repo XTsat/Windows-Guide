@@ -5,6 +5,8 @@
 
 所以我们第一步先去点一下系统的获取更新
 
+## Windows Subsystem for Android™ with Amazon Appstore
+
 更新完成后点击下载链接，安装 windows 安卓子系统
 
 [![Microsoft Store](https://img.shields.io/badge/download-%e4%b8%8b%e8%bd%bd-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store")
@@ -13,7 +15,7 @@
 
 [![系统要求](https://github.com/XTsat/How-to-simply-install-APK-in-Windows/blob/d7d8c1349a55ff022592c508863e975c6ccfe0a0/photo/system%20requirements.png)](https://github.com/XTsat/How-to-simply-install-APK-in-Windows)
 
-##
+## APK Installer
 
 有了安卓子系统就可以安装安卓应用了，不过想自己安装是需要ADB命令的，所以我们可以安装一个方便的 APK 安装程序
 
@@ -28,7 +30,7 @@
 
 [![APK-Installer](https://github.com/XTsat/How-to-simply-install-APK-in-Windows/blob/d7d8c1349a55ff022592c508863e975c6ccfe0a0/photo/APK-Installer.png)](https://apps.microsoft.com/store/detail/9P2JFQ43FPPG)
 
-##
+## Wsa Toolbox
 
 可以安装一个WSA工具箱，虽然上架了微软商店，但是搜索不到，如果需要可以点击下方链接直接去下载,作者的仓库地址
 [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox)
