@@ -62,4 +62,6 @@
 
 [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20WSA%20%E5%B7%A5%E5%85%B7%E7%AE%B1-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt "Microsoft Store")
 
+[![Wsa Toolbox](https://github.com/XTsat/How-to-simply-install-APK-in-Windows/blob/76ebcc2ae2d9a36d7d00a728613dd9991eb1edd0/photo/WSA%20toolbox.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt)
+
 ---
