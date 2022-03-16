@@ -1,9 +1,10 @@
 # 如何简单的在 windown 11 中安装安卓应用程序 APK
 
-- [Windows Subsystem for Android™](#windows-subsystem-for-android)
-  - [设备要求](#设备要求)
-- [APK Installer](#apk-installer)
-- [Wsa Toolbox](#wsa-toolbox)
+- [如何简单的在 windown 11 中安装安卓应用程序 APK](#如何简单的在-windown-11-中安装安卓应用程序-apk)
+  - [Windows Subsystem for Android™](#windows-subsystem-for-android)
+    - [设备要求](#设备要求)
+  - [APK Installer](#apk-installer)
+  - [Wsa Toolbox](#wsa-toolbox)
 
 首先必须要有一个新版的 windown 11 系统，可以去系统更新检测一下有没有可选更新可以下载
 
@@ -40,9 +41,9 @@
 
 ## APK Installer
 
-有了安卓子系统就可以安装安卓应用了，不过想自己安装是需要ADB命令的，所以我们可以安装一个方便的 APK 安装程序
+有了安卓子系统就可以安装安卓应用了，不过想自己安装是需要 ADB 命令的
 
-**安装完成后就可以直接双击安装 APK 文件了**
+所以我们可以安装一个方便的 APK 安装程序,***安装完成后就可以直接双击安装 APK 文件了***
 
 你可以点击下载安装 APK 安装程序,这个软件本身也在 GitHub 中开源
 [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)
