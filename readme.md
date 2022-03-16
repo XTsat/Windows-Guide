@@ -5,7 +5,7 @@
 
 所以我们第一步先去点一下系统的获取更新
 
-## Windows Subsystem for Android™ with Amazon Appstore
+## Windows Subsystem for Android™
 
 更新完成后点击下载链接，安装 windows 安卓子系统
 
