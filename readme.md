@@ -1,12 +1,12 @@
-# 如何简单的在 windown 11 中安装安卓应用程序 APK
+# 如何简单的在 windows 11 中安装安卓应用程序 APK
 
-- [如何简单的在 windown 11 中安装安卓应用程序 APK](#如何简单的在-windown-11-中安装安卓应用程序-apk)
+- [如何简单的在 windows 11 中安装安卓应用程序 APK](#如何简单的在-windown-11-中安装安卓应用程序-apk)
   - [Wsa Toolbox](#wsa-toolbox)
   - [Windows Subsystem for Android™](#windows-subsystem-for-android)
     - [设备要求](#设备要求)
   - [APK Installer](#apk-installer)
 
-首先必须要有一个新版的 windown 11 系统，可以去系统更新检测一下有没有可选更新可以下载
+首先必须要有一个新版的 windows 11 系统，可以去系统更新检测一下有没有可选更新可以下载
 
 >*(因为在2月16日，微软正式推出 Windows 11的第一个重大更新  **KB5010414**（内部版本 22000.527），安装了这个可选更新后才支持运行安卓 APP。与典型的每月更新不同，是一个可选的更新，点击“获取更新”按钮才会下载，而不会主动下载安装。）*
 
