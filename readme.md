@@ -22,7 +22,7 @@
 
 <!-- [![Microsoft Store](https://img.shields.io/badge/download-%E8%8E%B7%E5%8F%96%20%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](ms-windows-store://pdp/?productid=9NJHK44TTKSX "Microsoft Store") -->
 
-[![Windows Subsystem for Android™](https://github.com/XTsat/How-to-simply-install-APK-in-Windows/blob/464cd093ea98a52b7020300e9607b79720d65042/photo/Windows%20Subsystem%20for%20Android%E2%84%A2.png)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr)
+[![Windows Subsystem for Android™](photo/Windows%20Subsystem%20for%20Android™.png)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr)
 
 要安装安卓子系统你的设备必须满足以下特定要求:
 
@@ -54,7 +54,7 @@
 
 也可以在微软商店里面搜索 APK 安装程序，找到由 wherewhere 开发的这个版本，虽然商店里面有很多安装程序，但那些每次安装要么是英文的，要么有特别多的广告，每次安装都显示广告，那些软件的样子和这个一模一样，估计都是套壳加了个广告
 
-[![APK-Installer](https://github.com/XTsat/How-to-simply-install-APK-in-Windows/blob/d7d8c1349a55ff022592c508863e975c6ccfe0a0/photo/APK-Installer.png)](https://apps.microsoft.com/store/detail/9P2JFQ43FPPG)
+[![APK-Installer](photo/APK-Installer.png)](https://apps.microsoft.com/store/detail/9P2JFQ43FPPG)
 
 ## Wsa Toolbox
 
@@ -64,6 +64,6 @@
 
 [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20WSA%20%E5%B7%A5%E5%85%B7%E7%AE%B1-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt "Microsoft Store")
 
-[![Wsa Toolbox](https://github.com/XTsat/How-to-simply-install-APK-in-Windows/blob/76ebcc2ae2d9a36d7d00a728613dd9991eb1edd0/photo/WSA%20toolbox.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt)
+[![Wsa Toolbox](photo/WSA%20toolbox.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt)
 
 ---
