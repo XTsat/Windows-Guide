@@ -26,7 +26,7 @@
 
 打开 WSA 工具箱 ，点击 WSA 应用商店页面
 
-![Wsa Toolbox](photo\wsa%20quick.png)
+![Wsa Toolbox](photo/wsa%20quick.png)
 
 ## Windows Subsystem for Android™
 
