@@ -22,6 +22,8 @@
 
 <!-- [![Microsoft Store](https://img.shields.io/badge/download-%E8%8E%B7%E5%8F%96%20%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](ms-windows-store://pdp/?productid=9NJHK44TTKSX "Microsoft Store") -->
 
+[![Windows Subsystem for Android™](https://github.com/XTsat/How-to-simply-install-APK-in-Windows/blob/464cd093ea98a52b7020300e9607b79720d65042/photo/Windows%20Subsystem%20for%20Android%E2%84%A2.png)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr)
+
 要安装安卓子系统你的设备必须满足以下特定要求:
 
 ### [设备要求](https://support.microsoft.com/zh-cn/windows/install-mobile-apps-and-the-amazon-appstore-f8d0abb5-44ad-47d8-b9fb-ad6b1459ff6c)
