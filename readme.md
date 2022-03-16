@@ -1,13 +1,13 @@
-**如何简单的在win11中安装安卓应用程序APK**
+## 如何简单的在win11中安装安卓应用程序APK
 
 首先必须要有一个新版的 win11 系统，可以去系统更新检测一下有没有可选更新可以下载
->*(因为在2月16日，微软正式推出 Windows 11的第一个重大更新 KB5010414（内部版本 22000.527），安装了这个可选更新后才支持运行安卓 APP。与典型的每月更新不同，是一个可选的更新，点击“获取更新”按钮才会下载，而不会主动下载安装。）*
+>*(因为在2月16日，微软正式推出 Windows 11的第一个重大更新  **KB5010414**（内部版本 22000.527），安装了这个可选更新后才支持运行安卓 APP。与典型的每月更新不同，是一个可选的更新，点击“获取更新”按钮才会下载，而不会主动下载安装。）*
 
-所以我们第一步先去点一下系统的获取更新
+所以我们第一步先去点一下系统的获取更新，以防没有 **KB5010414** 更新，可能在可选更新里面，也可以看更新历史记录来确认已更新
 
 ## Windows Subsystem for Android™
 
-更新完成后点击下载链接，安装 windows 安卓子系统
+点击下载链接，安装 windows 安卓子系统
 
 [![Microsoft Store](https://img.shields.io/badge/download-%e4%b8%8b%e8%bd%bd-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store")
 
