@@ -9,7 +9,7 @@
 
 点击下载链接，安装 windows 安卓子系统
 
-[![Microsoft Store](https://img.shields.io/badge/download-%e4%b8%8b%e8%bd%bd-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store")
+[![Microsoft Store](https://img.shields.io/badge/download-Windows%20Subsystem%20for%20Android%E2%84%A2%20%E4%B8%8B%E8%BD%BD-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store")
 
 要安装安卓子系统必须满足这些要求
 
@@ -24,7 +24,7 @@
 你可以点击下载安装 APK 安装程序,这个软件本身也在 GitHub 中开源
 [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)
 
-[![Microsoft Store](https://img.shields.io/badge/download-%e4%b8%8b%e8%bd%bd-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://apps.microsoft.com/store/detail/9P2JFQ43FPPG "Microsoft Store")
+[![Microsoft Store](https://img.shields.io/badge/download-APK%20Installer%20%E4%B8%8B%E8%BD%BD-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://apps.microsoft.com/store/detail/9P2JFQ43FPPG "Microsoft Store")
 
 也可以在微软商店里面搜索 APK 安装程序，找到由 wherewhere 开发的这个版本，虽然商店里面有很多安装程序，但那些每次安装要么是英文的，要么有特别多的广告，每次安装都显示广告，那些软件的样子和这个一模一样，估计都是套壳加了个广告
 
@@ -36,6 +36,6 @@
 [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox)
 (本仓库的作用是用来收集反馈以及发布新版本)(注：没有开源)
 
-[![Microsoft Store](https://img.shields.io/badge/download-%e4%b8%8b%e8%bd%bd-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt "Microsoft Store")
+[![Microsoft Store](https://img.shields.io/badge/download-Wsa%20Toolbox%20%E4%B8%8B%E8%BD%BD-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt "Microsoft Store")
 
 ##
