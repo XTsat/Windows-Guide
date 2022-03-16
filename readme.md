@@ -11,7 +11,7 @@
 
 [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store")
 
-[![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20Amazon%20Appstore-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/store/productId/9NJHK44TTKSX "Microsoft Store")
+[![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20Amazon%20Appstore-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/amazon-appstore/9njhk44ttksx "Microsoft Store")
 
 
 要安装安卓子系统你的设备必须满足以下特定要求:
