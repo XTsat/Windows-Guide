@@ -1,4 +1,6 @@
-[![windows 11 安卓应用指南](https://socialify.git.ci/XTsat/Windows-11-Android-Guide/image?description=1&font=Inter&language=1&pattern=Solid&stargazers=1&theme=Light)](https://github.com/XTsat/Windows-11-Android-Guide/stargazers)
+[![windows 11 安卓应用指南 light](https://socialify.git.ci/XTsat/Windows-11-Android-Guide/image?font=Inter&pattern=Solid&stargazers=1&theme=Light#gh-light-mode-only)](https://github.com/XTsat/Windows-11-Android-Guide/stargazers)
+
+[![windows 11 安卓应用指南 dark](https://socialify.git.ci/XTsat/Windows-11-Android-Guide/image?font=Inter&pattern=Solid&stargazers=1&theme=Dark#gh-dark-mode-only)](https://github.com/XTsat/Windows-11-Android-Guide/stargazers)
 
 # windows 11 安卓应用指南
 
