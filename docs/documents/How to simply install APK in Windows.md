@@ -51,17 +51,17 @@
 
 [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20WSA%20%E5%B7%A5%E5%85%B7%E7%AE%B1-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt "Microsoft Store")
 
-[![Wsa Toolbox](/photo/WSA%20toolbox.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt)
+[![Wsa Toolbox](/photo/Microsoft-Store/WSA-toolbox.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt)
 
 打开 **WSA 工具箱**，点击 **WSA 应用商店页面**，因为现在直接用网页打开没有下载的权限，也无法唤起应用，导致无法下载，所以现在使用 **WSA 工具箱**打开下载安卓子程序的链接
 
-![Wsa Toolbox](/photo/wsa%20quick.png)
+![Wsa Toolbox home](/photo/WSA-Toolbox/WSA-toolbox-home.png)
 
 ### Windows Subsystem for Android™
 
 点击安装，安装 **windows 安卓子系统**(无论下载安卓子系统还是下载亚马逊应用商店都会自动安装另一个)
 
-![wsa](/photo/ms%20store%20wsa.png)
+![wsa](/photo/Microsoft-Store/Windows-Subsystem-for-Android™.png)
 
 <!-- [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store") -->
 
@@ -86,7 +86,7 @@
 
 也可以在微软商店里面搜索 **APK 安装程序**，找到由 **wherewhere** 开发的这个版本，虽然商店里面有很多安装程序，但那些安装程序要么是英文的，要么有特别多的广告，每次安装都显示广告，那些软件的样子和这个一模一样，估计都是套壳加了个广告
 
-[![APK-Installer](/photo/APK-Installer.png)](https://apps.microsoft.com/store/detail/9P2JFQ43FPPG)
+[![APK-Installer](/photo/Microsoft-Store/APK-Installer.png)](https://apps.microsoft.com/store/detail/9P2JFQ43FPPG)
 
 ---
 

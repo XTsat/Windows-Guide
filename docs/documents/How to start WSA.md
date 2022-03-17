@@ -15,7 +15,7 @@
 
 使子系统始终运行在后台(推荐 16G 内存及以上使用)
 
-![WSA setting](/photo/WSA%20setting%20%E8%BF%9E%E7%BB%AD.png)
+![WSA 连续](/photo/WSA/WSA%20setting%20连续.png)
 
 ## 无法连接 WSA 怎么办
 
@@ -23,7 +23,7 @@
 
 可以打开 WSA 设置 将开发人员模式切换一次设置
 
-![WSA setting](/photo/WSA%20setting%20%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E6%A8%A1%E5%BC%8F.png)
+![WSA 开发模式](/photo/WSA/WSA%20setting%20开发人员模式.png)
 
 ---
 
