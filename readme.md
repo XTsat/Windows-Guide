@@ -34,7 +34,7 @@
 
 ## Wsa Toolbox
 
-首先安装一个 WSA 工具箱，虽然上架了微软商店，但是搜索不到，可以点击下方链接直接去下载,作者的仓库地址
+首先安装一个 **WSA 工具箱**，虽然上架了微软商店，但是搜索不到，可以点击下方链接直接去下载,作者的仓库地址
 [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox)
 (本仓库的作用是用来收集反馈以及发布新版本)(注：没有开源)
 
@@ -42,17 +42,15 @@
 
 [![Wsa Toolbox](photo/WSA%20toolbox.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt)
 
-打开 WSA 工具箱 ，点击 WSA 应用商店页面
+打开 **WSA 工具箱**，点击 WSA 应用商店页面，因为现在直接用网页打开没有下载的权限，也无法唤起应用，导致无法下载，所以现在使用 **WSA 工具箱**打开下载安卓子程序的链接
 
 ![Wsa Toolbox](photo\wsa%20quick.png)
 
 ## Windows Subsystem for Android™
 
-点击安装
+点击安装，安装 windows 安卓子系统(无论下载安卓子系统还是下载亚马逊应用商店都会自动安装另一个)
 
 ![wsa](photo/ms%20store%20wsa.png)
-
-点击下载链接，安装 windows 安卓子系统(无论下载安卓子系统还是下载亚马逊应用商店都会自动安装另一个)
 
 <!-- [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store") -->
 
@@ -60,7 +58,7 @@
 
 <!-- [![Microsoft Store](https://img.shields.io/badge/download-%E8%8E%B7%E5%8F%96%20%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](ms-windows-store://pdp/?productid=9NJHK44TTKSX "Microsoft Store") -->
 
-[![Windows Subsystem for Android™](photo/Windows%20Subsystem%20for%20Android™.png)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr)
+<!-- [![Windows Subsystem for Android™](photo/Windows%20Subsystem%20for%20Android™.png)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr) -->
 
 <!-- [![系统要求](photo/system%20requirements.png)](https://github.com/XTsat/How-to-simply-install-APK-in-Windows) -->
 
