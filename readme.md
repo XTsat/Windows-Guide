@@ -34,9 +34,11 @@
 
 ## Wsa Toolbox
 
-首先安装一个 **WSA 工具箱**，虽然上架了微软商店，但是搜索不到，可以点击下方链接直接去下载,作者的仓库地址
+首先安装一个 **WSA 工具箱**，虽然上架了微软商店，但是搜索不到，可以点击下方链接直接去下载
+
+作者的仓库地址
 [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox)
-(本仓库的作用是用来收集反馈以及发布新版本)(注：没有开源)
+(本仓库的作用是用来收集反馈以及发布新版本)(注：不是开源)
 
 [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20WSA%20%E5%B7%A5%E5%85%B7%E7%AE%B1-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt "Microsoft Store")
 
