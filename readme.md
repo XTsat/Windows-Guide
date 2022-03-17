@@ -46,7 +46,7 @@
 
 打开 **WSA 工具箱**，点击 **WSA 应用商店页面**，因为现在直接用网页打开没有下载的权限，也无法唤起应用，导致无法下载，所以现在使用 **WSA 工具箱**打开下载安卓子程序的链接
 
-![Wsa Toolbox](photo\wsa%20quick.png)
+![Wsa Toolbox](photo/wsa%20quick.png)
 
 ## Windows Subsystem for Android™
 
