@@ -51,8 +51,8 @@
 
 [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20WSA%20%E5%B7%A5%E5%85%B7%E7%AE%B1-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt "Microsoft Store")
 
-[![Wsa Toolbox](/photo/Microsoft-Store/WSA-toolbox.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt#gh-light-mode-only)
-[![Wsa Toolbox](/photo/Microsoft-Store/WSA-toolbox-dark.png)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt#gh-dark-mode-only)
+[![Wsa Toolbox](/photo/Microsoft-Store/WSA-toolbox.png#gh-light-mode-only)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt#gh-light-mode-only)
+[![Wsa Toolbox](/photo/Microsoft-Store/WSA-toolbox-dark.png#gh-dark-mode-only)](https://www.microsoft.com/zh-cn/p/wsa-toolbox/9ppsp2mkvtgt#gh-dark-mode-only)
 
 打开 **WSA 工具箱**，点击 **WSA 应用商店页面**，因为现在直接用网页打开没有下载的权限，也无法唤起应用，导致无法下载，所以现在使用 **WSA 工具箱**打开下载安卓子程序的链接
 
