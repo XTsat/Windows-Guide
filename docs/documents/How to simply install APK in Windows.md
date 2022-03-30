@@ -66,15 +66,11 @@
 ![wsa](/photo/Microsoft-Store/Windows-Subsystem-for-Android™.png#gh-light-mode-only)
 ![wsa](/photo/Microsoft-Store/Windows-Subsystem-for-Android™-dark.png#gh-dark-mode-only)
 
-<!-- [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store") -->
+[![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr "Microsoft Store")
 
-<!-- [![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20Amazon%20Appstore-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/amazon-appstore/9njhk44ttksx "Microsoft Store") -->
+[![Microsoft Store](https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD%20Amazon%20Appstore-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://www.microsoft.com/zh-cn/p/amazon-appstore/9njhk44ttksx "Microsoft Store")
 
 <!-- [![Microsoft Store](https://img.shields.io/badge/download-%E8%8E%B7%E5%8F%96%20%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=11a2f8)](ms-windows-store://pdp/?productid=9NJHK44TTKSX "Microsoft Store") -->
-
-<!-- [![Windows Subsystem for Android™](/photo/Windows%20Subsystem%20for%20Android™.png)](https://www.microsoft.com/zh-cn/p/windows-subsystem-for-android-with-amazon-appstore/9p3395vx91nr) -->
-
-<!-- [![系统要求](/photo/system%20requirements.png)](https://github.com/XTsat/How-to-simply-install-APK-in-Windows) -->
 
 ### APK Installer
 
