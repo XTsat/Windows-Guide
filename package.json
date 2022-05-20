@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.45"
+  },
+  "name": "Windows-Guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.45"
+  }
+}

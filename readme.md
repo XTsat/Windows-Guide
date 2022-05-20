@@ -1,16 +1,11 @@
-<div align="center"> 
 
-# windows 11 安卓应用指南
+# windows 指南
 
-[![windows 11 安卓应用指南 light](https://socialify.git.ci/XTsat/Windows-11-Android-Guide/image?font=Inter&pattern=Solid&stargazers=1&theme=Light#gh-light-mode-only)](https://github.com/XTsat/Windows-11-Android-Guide/stargazers#gh-light-mode-only)
-[![windows 11 安卓应用指南 dark](https://socialify.git.ci/XTsat/Windows-11-Android-Guide/image?font=Inter&pattern=Solid&stargazers=1&theme=Dark#gh-dark-mode-only)](https://github.com/XTsat/Windows-11-Android-Guide/stargazers#gh-dark-mode-only)
+欢迎访问 Windows 指南，你可以在这里找到我对 Windows 系统的个人理解和笔记
 
-<div align="left"> 
+文档还在制作过程中，你可以提出更多的文档内容
 
-## 目录
+详细指南请前往文档链接:<https://xtsat.github.io/Windows-Guide/>
 
-- [如何简单的在 windows 11 中安装安卓应用程序 APK](/docs/documents/How%20to%20simply%20install%20APK%20in%20Windows.md)
-  - [视频教程](https://www.bilibili.com/video/BV1br4y1i7i9)
-- [如何启动 WSA](/docs/documents/How%20to%20start%20WSA.md)
-
----
+[![前往指南](/docs/.vuepress/public/logo/点击前往指南.svg#gh-light-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-light-mode-only)
+[![前往指南](/docs/.vuepress/public/logo/点击前往指南%20黑.svg#gh-dark-mode-only )](https://xtsat.github.io/Windows-Guide/#gh-dark-mode-only)
