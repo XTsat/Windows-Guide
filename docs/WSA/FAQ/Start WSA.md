@@ -8,4 +8,4 @@
 
 使子系统始终运行在后台(推荐 16G 内存及以上使用)
 
-![WSA 连续](../photo/WSA/dark/WSA-setting-continuity.png)
+![WSA 连续](../Photo/WSA/dark/WSA-setting-continuity.png)

@@ -20,4 +20,4 @@
 
 也可以在微软商店里面搜索 **APK 安装程序**，找到由 **wherewhere** 开发的这个版本，虽然商店里面有很多安装程序，但那些安装程序要么是英文的，要么有特别多的广告，每次安装都会显示广告
 
-[![APK-Installer](../photo/Microsoft-Store/dark/APK-Installer.png)](ms-windows-store://pdp/?ProductId=9P2JFQ43FPPG)
+[![APK-Installer](../Photo/Microsoft-Store/dark/APK-Installer.png)](ms-windows-store://pdp/?ProductId=9P2JFQ43FPPG)

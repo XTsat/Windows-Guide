@@ -13,4 +13,4 @@ WSA 工具箱可以为Windows安卓子系统提供便捷工具：安装APK文件
 [![Microsoft Store](https://img.shields.io/badge/download-%E5%AE%89%E8%A3%85%20WSA%20%E5%B7%A5%E5%85%B7%E7%AE%B1-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=30dc80)](ms-windows-store://pdp/?ProductId=9PPSP2MKVTGT)
 [![Microsoft Store](https://img.shields.io/badge/download-WSA%20%E5%B7%A5%E5%85%B7%E7%AE%B1-magenta.svg?label=Microsoft%20Store%20%E7%BD%91%E9%A1%B5&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://apps.microsoft.com/store/detail/wsa%E5%B7%A5%E5%85%B7%E7%AE%B1/9PPSP2MKVTGT?hl=zh-cn&gl=CN)
 
-[![Wsa Toolbox](../photo/Microsoft-Store/dark/WSA-toolbox.png)](ms-windows-store://pdp/?ProductId=9PPSP2MKVTGT)
+[![Wsa Toolbox](../Photo/Microsoft-Store/dark/WSA-toolbox.png)](ms-windows-store://pdp/?ProductId=9PPSP2MKVTGT)
