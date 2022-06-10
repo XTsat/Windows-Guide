@@ -5,9 +5,9 @@ home: true
 heroText: Winsows 指南
 tagline: 我使用 Windows 的笔记和指南
 actions:
-  # - text: 指南
-  #   link: /document/
-  #   type: primary
+  - text: 系统问题
+    link: /document/FAQ/诊断启动.md
+    type: primary
   - text: 安卓子系统
     link: /WSA/Install WSA.md
     type: secondary

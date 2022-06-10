@@ -2,17 +2,17 @@ import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const zh: SidebarConfig = {
   '/': [
+    // {
+    //   text: '开始使用',
+    //   collapsible: false,
+    //   children: [
+    //   ]
+    // },
     {
-      text: '开始使用',
+      text: '系统问题',
       collapsible: false,
       children: [
-      ]
-    },
-    {
-      text: '常见问题',
-      collapsible: true,
-      children: [
-        '/document/FAQ/FAQ.md',
+        '/document/FAQ/诊断启动.md',
       ]
     },
   ],
