@@ -45,7 +45,7 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     // 在这里进行配置
-    logo: '/logo/windows11.svg',
+    logo: '/logo/Windows11.svg',
     
     repo: 'XTsat/Windows-Guide',
 
