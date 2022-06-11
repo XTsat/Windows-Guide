@@ -1,7 +1,7 @@
 ---
 title: 首页
 home: true
-# heroImage: /logo/
+heroImage: /logo/windows11.svg
 heroText: Winsows 指南
 tagline: 我使用 Windows 的笔记和指南
 actions:
