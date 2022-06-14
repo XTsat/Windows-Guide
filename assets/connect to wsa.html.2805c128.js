@@ -1,0 +1,1 @@
+const t={key:"v-b7eb2d1a",path:"/en/WSA/FAQ/connect%20to%20wsa.html",title:"\u65E0\u6CD5\u8FDE\u63A5 WSA \u600E\u4E48\u529E",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653025891e3,contributors:[{name:"XTsat",email:"44708609+XTsat@users.noreply.github.com",commits:2}]},filePathRelative:"en/WSA/FAQ/connect to wsa.md"};export{t as data};
