@@ -32,10 +32,16 @@ Windows Subsystem for Android™
 
 (无论安装安卓子系统或是亚马逊应用商店都会自动安装另一个)
 
-[![Microsoft Store](https://img.shields.io/badge/%E5%AE%89%E8%A3%85%20%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=66eb6e)](ms-windows-store://pdp/?ProductId=9P3395VX91NR)
-[![Microsoft Store](https://img.shields.io/badge/%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store%20%E7%BD%91%E9%A1%B5&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://apps.microsoft.com/store/detail/windows-subsystem-for-android%E2%84%A2-with-amazon-appstore/9P3395VX91NR?hl=zh-cn&gl=CN)
+<div>
+  <a class="install-button install-text" style="border-radius:4px;padding:0px 20px;width:max-content;min-width:90px;cursor:pointer;margin-bottom:4px" href="ms-windows-store://pdp/?ProductId=9P3395VX91NR">在 Microsoft Store 获取</a>
+</div>
 
-[![Microsoft Store](https://img.shields.io/badge/%E5%AE%89%E8%A3%85%20Amazon%20Appstore-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=232e3e)](ms-windows-store://pdp/?productid=9NJHK44TTKSX)
-[![Microsoft Store](https://img.shields.io/badge/Amazon%20Appstore-magenta.svg?label=Microsoft%20Store%20%E7%BD%91%E9%A1%B5&logo=Microsoft&style=for-the-badge&color=11a2f8)](https://apps.microsoft.com/store/detail/amazon-appstore/9NJHK44TTKSX?hl=zh-cn&gl=CN)
+[![Microsoft Store](https://img.shields.io/badge/%E9%80%82%E7%94%A8%E4%BA%8E%20Android%E2%84%A2%EF%B8%8F%20%E7%9A%84%20Windows%20%E5%AD%90%E7%B3%BB%E7%BB%9F-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=66eb6e)](https://apps.microsoft.com/store/detail/windows-subsystem-for-android%E2%84%A2-with-amazon-appstore/9P3395VX91NR?hl=zh-cn&gl=CN)
+
+<div>
+  <a class="install-button install-text" style="border-radius:4px;padding:0px 20px;width:max-content;min-width:90px;cursor:pointer;margin-bottom:4px" href="ms-windows-store://pdp/?productid=9NJHK44TTKSX">在 Microsoft Store 获取</a>
+</div>
+
+[![Microsoft Store](https://img.shields.io/badge/%E5%AE%89%E8%A3%85%20Amazon%20Appstore-magenta.svg?label=Microsoft%20Store&logo=Microsoft&style=for-the-badge&color=232e3e)](https://apps.microsoft.com/store/detail/amazon-appstore/9NJHK44TTKSX?hl=zh-cn&gl=CN)
 
 [![wsa](./Photo/Microsoft-Store/dark/Windows-Subsystem-for-Android.png)](ms-windows-store://pdp/?ProductId=9P3395VX91NR)

@@ -54,3 +54,44 @@ html.dark {
     }
   }
 }
+
+//微软商城安装样式
+.install-button {
+  display: inline-flex;
+  overflow: hidden;
+  max-width: 374px;
+  box-sizing: border-box;
+  transition: all 0.1s ease-in-out;
+  line-height: 1;
+  font-family: inherit;
+  align-items: center;
+  white-space: nowrap;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 14px;
+  height: 32px;
+  border: 2px solid transparent
+}
+
+.install-text {
+  color: rgb(222, 220, 217);
+  fill: rgb(222, 220, 217);
+  background-image: initial;
+  background-color: rgb(13, 99, 166)
+}
+
+.install-text:hover:enabled,
+a.install-text:hover {
+  background-image: initial;
+  background-color: rgb(13, 90, 150)
+}
+
+.install-text:active:enabled,
+a.install-text:active {
+  background-image: initial;
+  background-color: rgb(29, 107, 168)
+}
+
+.install-text:focus {
+  outline-color: initial
+}
