@@ -73,25 +73,87 @@ html.dark {
   border: 2px solid transparent
 }
 
+.install-button:hover:enabled,
+a.install-button:hover {
+  background: #E5E5E5
+}
+
+.install-button:active:enabled,
+a.install-button:active {
+  background: #F2F2F2
+}
+
+.install-button:focus {
+  outline: none
+}
+
+.install-button:focus-visible {
+  border-color: #888888
+}
+
+.install-button:disabled {}
+
 .install-text {
+  color: #FFFFFF;
+  fill: #FFFFFF;
+  background: #0078D4
+}
+
+.install-text:hover:enabled,
+a.install-text:hover {
+  background: #006CBE
+}
+
+.install-text:active:enabled,
+a.install-text:active {
+  background: #1683D8
+}
+
+.install-text:focus {
+  outline: none
+}
+
+.install-text:focus-visible {
+  border-color: #888888;
+  box-shadow: 0 0 0 2px inset #FFFFFF
+}
+
+.install-button-dark {
+  display: inline-flex;
+  overflow: hidden;
+  max-width: 374px;
+  box-sizing: border-box;
+  transition: all 0.1s ease-in-out;
+  line-height: 1;
+  font-family: inherit;
+  align-items: center;
+  white-space: nowrap;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 14px;
+  height: 32px;
+  border: 2px solid transparent
+}
+
+.install-text-dark {
   color: rgb(222, 220, 217);
   fill: rgb(222, 220, 217);
   background-image: initial;
   background-color: rgb(13, 99, 166)
 }
 
-.install-text:hover:enabled,
+.install-text-dark:hover:enabled,
 a.install-text:hover {
   background-image: initial;
   background-color: rgb(13, 90, 150)
 }
 
-.install-text:active:enabled,
+.install-text-dark:active:enabled,
 a.install-text:active {
   background-image: initial;
   background-color: rgb(29, 107, 168)
 }
 
-.install-text:focus {
+.install-text-dark:focus {
   outline-color: initial
 }
