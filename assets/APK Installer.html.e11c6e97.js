@@ -1,0 +1,1 @@
+const t={key:"v-24bf3a9d",path:"/en/WSA/APP/APK%20Installer.html",title:"APK \u5B89\u88C5\u7A0B\u5E8F",lang:"English",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653025891e3,contributors:[{name:"XTsat",email:"44708609+XTsat@users.noreply.github.com",commits:2}]},filePathRelative:"en/WSA/APP/APK Installer.md"};export{t as data};
